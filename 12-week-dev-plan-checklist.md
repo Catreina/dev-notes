@@ -2,15 +2,15 @@
 # ✅ 12-WEEK HYBRID DEV + TECHNICAL WRITING CHECKLIST
 
 ## 📅 WEEK 1: Git, GitHub, Markdown, Setup (completion: 2025-07-09 - 4 hours)
-- ✅ Install Git CLI and set up username/email
-- ✅ Learn and practice:
-  - ✅ `git init`, `add`, `commit`, `log`, `status`
-  - ✅ `git branch`, `checkout`, `merge`
-  - ✅ `git push`, `pull`, `clone`
-- ✅ Create `dev-notes` repo and write first log
-- ✅ Create `portfolio` repo to track project links
+✅ Install Git CLI and set up username/email
+✅ Learn and practice:
+ ✅ `git init`, `add`, `commit`, `log`, `status`
+ ✅ `git branch`, `checkout`, `merge`
+ ✅ `git push`, `pull`, `clone`
+✅ Create `dev-notes` repo and write first log
+✅ Create `portfolio` repo to track project links
 - [ ] Build `README-template.md` for all future projects
-- ✅ Learn Markdown basics (headers, lists, code blocks, links)
+✅ Learn Markdown basics (headers, lists, code blocks, links)
 - [ ] Write a personal GitHub Profile `README.md`
 
 ## 📅 WEEK 2: Notes App (Python CLI) (Start: 2025-07-09)
